@@ -1,4 +1,4 @@
-### ISLR Reading Note
+# ISLR Reading Notes
 
 This folder stores the reading notes I generate when reading ISLR. 
 
